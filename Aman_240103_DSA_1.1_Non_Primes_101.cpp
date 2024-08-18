@@ -38,7 +38,7 @@ void solve() {
 
 int main() {
     prime() ;
-	  int t ;
-	  cin >> t ;
-	  while (t--) solve() ;
+    int t ;
+    cin >> t ;
+    while (t--) solve() ;
 }
